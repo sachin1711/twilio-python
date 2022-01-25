@@ -1,0 +1,9 @@
+Executing script: c:\Users\sachi\Desktop\programs\python_work\quest\list_iteration.py
+Script arguments: Duke,Ruby,Dottie,Snake,Joe
+Output:
+Duke
+Ruby
+Dottie
+Snake
+Joe
+
