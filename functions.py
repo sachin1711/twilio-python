@@ -1,4 +1,7 @@
-def hail_friend():
-    print("Hail, friend!")
+def hail_friend(name):
+    print(f"Hail, {name}!")
 
-hail_friend()
+def add_numbers(n1,n2):
+    return n1+n2
+
+
